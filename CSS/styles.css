@@ -1,0 +1,21 @@
+body{font-size: 20px;
+  color:green;
+  }.Lou{
+  width: 100px;
+  background-color: gray;
+  text-align: center;
+  margin: 0;
+}
+.heading{
+  width:50%;
+}
+h1
+{font-size: 20px;
+color: green;
+text-align: center;
+}
+.profile-pic {
+  width: 20%;
+  margin: auto;
+  border-radius: 50%;
+position: relative;}
